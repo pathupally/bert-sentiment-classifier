@@ -28,7 +28,8 @@ This project implements a binary sentiment classifier using the BERT (Bidirectio
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/pathupally/bert-sentiment-classifier
+
 cd bert-sentiment-classifier
 ```
 
